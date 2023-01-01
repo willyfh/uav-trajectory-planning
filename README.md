@@ -3,7 +3,11 @@ The first unofficial implementation of a paper with the titled "UAV Trajectory P
 
 **Paper**: M. Samir, S. Sharafeddine, C. M. Assi, T. M. Nguyen and A. Ghrayeb, "UAV Trajectory Planning for Data Collection from Time-Constrained IoT Devices," in IEEE Transactions on Wireless Communications, vol. 19, no. 1, pp. 34-46, Jan. 2020, doi: 10.1109/TWC.2019.2940447. > https://ieeexplore.ieee.org/document/8842600
 
-# How to execute the code
+## Summary
+I summarize the paper and the implementation in this [slides](https://github.com/willyfh/uav-trajectory-planning/blob/main/doc/Summary%20-%20UAV%20Trajectory%20Planning%20for%20Data%20Collection%20from%20Time-Constrained%20IoT%20Devices%20.pdf)
+
+
+## How to execute the code
 To be added
 
 ## Reproduced Results
