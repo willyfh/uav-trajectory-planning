@@ -13,7 +13,7 @@ I summarize the paper and the implementation in this [slides](https://github.com
 2. Execute the matlab code, i.e., `main.m`
 
 
-If the plot is not displayed after the iteration is completed, please execute following command in the command window:
+If the plot is not displayed after the iteration is completed, please execute this in the command window:
 ```bash
 hold on; scatter(X, Y, 10, 'b');scatter(device_X, device_Y,50, 'r'); xlim([0 800]);ylim([0 800]); text(device_X, device_Y, split(num2str(deadline))); hold off
 ```
