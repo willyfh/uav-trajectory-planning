@@ -13,10 +13,14 @@ I summarize the paper and the implementation in this [slides](https://github.com
 2. Execute the matlab code, i.e., `main.m`
 
 
-If the plot not display after the iteration is complete, please execute following command in the command window:
+If the plot is not displayed after the iteration is completed, please execute following command in the command window:
 ```bash
 hold on; scatter(X, Y, 10, 'b');scatter(device_X, device_Y,50, 'r'); xlim([0 800]);ylim([0 800]); text(device_X, device_Y, split(num2str(deadline))); hold off
 ```
 
 ## Reproduced Results
-To be added
+### Rician Channel
+![rician_figure](https://user-images.githubusercontent.com/5786636/210167035-c8c00597-fa5d-4e1a-b104-a775710a6d23.PNG)
+
+### Path-loss Channel
+![path_loss_figure](https://user-images.githubusercontent.com/5786636/210167061-a63fc936-84a2-47e3-b1a2-cbae3dac0bb4.PNG)
