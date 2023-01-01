@@ -8,7 +8,15 @@ I summarize the paper and the implementation in this [slides](https://github.com
 
 
 ## How to execute the code
-To be added
+1. Install CVX on MATLAB : http://cvxr.com/cvx/download/
+2. Change `rician` variable in the `main.m` to `true` or `false` as needed
+2. Execute the matlab code, i.e., `main.m`
+
+
+If the plot not display after the iteration is complete, please execute following command in the command window:
+```bash
+hold on; scatter(X, Y, 10, 'b');scatter(device_X, device_Y,50, 'r'); xlim([0 800]);ylim([0 800]); text(device_X, device_Y, split(num2str(deadline))); hold off
+```
 
 ## Reproduced Results
 To be added
