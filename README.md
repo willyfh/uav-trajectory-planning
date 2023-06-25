@@ -1,5 +1,5 @@
 # Reproducing "UAV Trajectory Planning for Data Collection from Time-Constrained IoT Devices"
-The first unofficial implementation of a paper with the titled "UAV Trajectory Planning for Data Collection from Time-Constrained IoT Devices". In this repository, I implemented a sub-optimal algorithm based on successive convex approximation (SCA) as introduced by Samir et al. (2019). Specifically, I reproduced the Figure 3 in the paper.
+The first unofficial implementation of a paper with the titled "UAV Trajectory Planning for Data Collection from Time-Constrained IoT Devices". In this repository, I implemented a sub-optimal algorithm based on successive convex approximation (SCA) as introduced by Samir et al. (2019). Specifically, I reproduced the Figure 3 in the paper, where the goal is to optimize the UAV trajectory and allocation of resources to maximize the total number of served IoT devices within a flight mission duration based on a given set of target time constraints.
 
 ![image](https://user-images.githubusercontent.com/5786636/210189851-7a6396bb-ba24-41b6-b8e2-802902fa4bc3.png)
 
