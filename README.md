@@ -9,6 +9,7 @@ The first unofficial implementation of a paper with the titled "UAV Trajectory P
 ## Summary
 I summarize the paper and the implementation in this [slides](https://github.com/willyfh/uav-trajectory-planning/blob/main/doc/Summary%20-%20UAV%20Trajectory%20Planning%20for%20Data%20Collection%20from%20Time-Constrained%20IoT%20Devices%20.pdf)
 
+![optimization-problem](https://github.com/willyfh/uav-trajectory-planning/assets/5786636/08bd5c75-7e04-4714-92d3-0b9bcae2f1bd)
 
 ## How to execute the code
 1. Install CVX on MATLAB : http://cvxr.com/cvx/download/
